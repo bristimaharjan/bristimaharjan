@@ -58,7 +58,6 @@
 ## ☕ Fun Little Things
 
 - 🌸 I find joy in **dancing**, **reading  books**, and **watching the rain** with a cozy blanket.  
-- ✈️ I dream of traveling with my cousins once we’re older and free!  
 - ⚖️ As a **Libra**, I believe in balance — even in code!
 ---
 
