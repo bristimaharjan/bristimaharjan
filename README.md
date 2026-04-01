@@ -44,11 +44,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bristimaharjan&show_icons=true&theme=radical" alt="Bristi's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bristimaharjan&show_icons=true&theme=radical&cache_seconds=1800" alt="Bristi's GitHub stats" width="48%" />
   <img src="https://streak-stats.demolab.com?user=bristimaharjan&theme=radical" alt="Bristi's GitHub streak" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bristimaharjan&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bristimaharjan&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" width="48%" />
 </p>
 
 ---
